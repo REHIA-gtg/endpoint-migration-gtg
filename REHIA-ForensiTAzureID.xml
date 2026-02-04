@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<ForensiTAzureID ObjectId="192f1e15-fba0-4c03-b5ee-83e7e7b09b05" Name="REHarris.onmicrosoft.com reharris.com" DisplayName="Robert E. Harris Insurance Agency, Inc.">
+    <User>
+        <UserPrincipalName>accounting@reharris.com</UserPrincipalName>
+        <ObjectId>a624bacb-e986-4aae-bb05-5b5d45ce6f46</ObjectId>
+        <DisplayName>Accounting</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>alaina@reharris.com</UserPrincipalName>
+        <ObjectId>b3f2785a-94b2-4e7c-8a98-29881d73f6d4</ObjectId>
+        <DisplayName>Alaina Shortes-Bosold</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>alice@reharris.com</UserPrincipalName>
+        <ObjectId>23ecae27-8e2b-4e62-9323-743ff2df2947</ObjectId>
+        <DisplayName>Alice  Fabian</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>amin@reharris.com</UserPrincipalName>
+        <ObjectId>671b20ca-6d29-4c5e-87e0-992c5ef34211</ObjectId>
+        <DisplayName>Amin Khalid</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ams360help@reharris.com</UserPrincipalName>
+        <ObjectId>d473e084-1918-4e3c-8a75-fc400ed6cc1c</ObjectId>
+        <DisplayName>ams360help</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>arlene@reharris.com</UserPrincipalName>
+        <ObjectId>0d6bd214-f1f8-4b02-ba97-7fef33f07821</ObjectId>
+        <DisplayName>Arlene Rhodes</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>astgermain_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>55cba187-ea09-4084-ac4d-ff47341d230a</ObjectId>
+        <DisplayName>astgermain@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Beatzy@reharris.com</UserPrincipalName>
+        <ObjectId>7d6ddeca-ed7c-49e2-9d0f-bc4ead21f11a</ObjectId>
+        <DisplayName>Beatzy Banuelos</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Blanca@reharris.com</UserPrincipalName>
+        <ObjectId>11a18e81-8745-405f-a559-0a702b6c8bf8</ObjectId>
+        <DisplayName>Blanca Orozco</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bpitchko_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>489941e4-d9a3-414b-8c44-239a82910070</ObjectId>
+        <DisplayName>bpitchko@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bscott_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>13642972-a8c9-4169-bb80-208b8f74a1a9</ObjectId>
+        <DisplayName>bscott@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>caitlin@reharris.com</UserPrincipalName>
+        <ObjectId>616b82bd-0359-4311-bab7-a1f5ec76cc6b</ObjectId>
+        <DisplayName>Caitlin Ortiz</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Caryn@reharris.com</UserPrincipalName>
+        <ObjectId>7061e3a7-62fb-4516-b31f-36c000cae037</ObjectId>
+        <DisplayName>Caryn Smith</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>christian@reharris.com</UserPrincipalName>
+        <ObjectId>611b1e1a-fa3c-4f18-b0a4-5a0d3b894c41</ObjectId>
+        <DisplayName>Christian Muller</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Cindy@reharris.com</UserPrincipalName>
+        <ObjectId>9ab06161-42cf-49e5-82ff-252b10ee84c0</ObjectId>
+        <DisplayName>Cindy Tarango</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>claims@reharris.com</UserPrincipalName>
+        <ObjectId>560958d4-f0e2-4dd3-ba6b-c54f78152bcd</ObjectId>
+        <DisplayName>Claims</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ConferenceRoom@reharris.com</UserPrincipalName>
+        <ObjectId>758a0187-49ee-4c20-bf81-32b930e19141</ObjectId>
+        <DisplayName>ConferenceRoom</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Connie@reharris.com</UserPrincipalName>
+        <ObjectId>0c014b02-eb5a-4112-ba0b-4a53a39ed5a9</ObjectId>
+        <DisplayName>Connie</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Esther@reharris.com</UserPrincipalName>
+        <ObjectId>5f5ab054-df1a-4cb6-84da-9fd1a72ce446</ObjectId>
+        <DisplayName>Esther Deleon</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>eticehurst_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>1fa99216-91d8-471d-9cc0-15488029afc1</ObjectId>
+        <DisplayName>eticehurst@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Francesca@reharris.com</UserPrincipalName>
+        <ObjectId>cc7bf5aa-8880-4862-b04e-0f68e410c4a4</ObjectId>
+        <DisplayName>Francesca Guedes</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>frank@reharris.com</UserPrincipalName>
+        <ObjectId>0b0050c9-a8dd-4b2d-9732-829378035cfd</ObjectId>
+        <DisplayName>Frank Robitaille</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gaplas_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>fff93bd5-f01f-4f98-a1b6-3a87792ccbd2</ObjectId>
+        <DisplayName>gaplas@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gloria@reharris.com</UserPrincipalName>
+        <ObjectId>740a0dc2-1a70-40e2-be29-c6f8dbc7fd21</ObjectId>
+        <DisplayName>Gloria Gabriel</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>greystone@reharris.com</UserPrincipalName>
+        <ObjectId>0b71c319-e3f8-4db4-8ec8-e69cd168a505</ObjectId>
+        <DisplayName>Greystone</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Hilary@reharris.com</UserPrincipalName>
+        <ObjectId>0841e3f3-2517-454a-ae37-6fb3d420fe3e</ObjectId>
+        <DisplayName>Hilary Biggerstaff</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>huntresstest@reharris.com</UserPrincipalName>
+        <ObjectId>259d563a-ce2b-4df1-9b41-0f3f935abb0a</ObjectId>
+        <DisplayName>huntress test</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Janet@reharris.com</UserPrincipalName>
+        <ObjectId>8ee317ab-b688-419b-aacd-d1a4053b3dac</ObjectId>
+        <DisplayName>Janet Kelly</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>JHerzog@reharris.com</UserPrincipalName>
+        <ObjectId>c9753b83-39f2-47d6-937e-26dea197a012</ObjectId>
+        <DisplayName>John Herzog</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Jiselle@reharris.com</UserPrincipalName>
+        <ObjectId>3c4faf14-cb6f-4d44-b5d0-ada837ecb860</ObjectId>
+        <DisplayName>Jiselle Calvo</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jkhoie_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>67c8643e-3cac-4aff-820a-b99a16f022a2</ObjectId>
+        <DisplayName>jkhoie@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jkolb_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>a107084e-65ac-4de9-81d5-6ac5703aaa36</ObjectId>
+        <DisplayName>jkolb@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Jonathan@reharris.com</UserPrincipalName>
+        <ObjectId>4e5ca54d-53bb-4adf-b11a-6a8d7988a980</ObjectId>
+        <DisplayName>Jonathan Walther</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jsparks_connectcore.com#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>167c119d-0b0b-4800-bc82-c4a9f515a322</ObjectId>
+        <DisplayName>jsparks</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Kerry@reharris.com</UserPrincipalName>
+        <ObjectId>9f6900ec-ff14-4462-9ee4-c3dedcf02706</ObjectId>
+        <DisplayName>Kerry Wakely</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>klee_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>0ee668cf-482c-4f75-84cf-9153ed82e2fa</ObjectId>
+        <DisplayName>klee@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>kstewart_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>a9b6a900-2d3d-464c-94a1-94b3173f4915</ObjectId>
+        <DisplayName>kstewart@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ktownson_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>b22d0c24-a122-4c7c-8fa0-0521aa0a50d8</ObjectId>
+        <DisplayName>ktownson@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lara@reharris.com</UserPrincipalName>
+        <ObjectId>fc1c7ce8-f145-42fb-8579-24e81c19d9e7</ObjectId>
+        <DisplayName>Lara Maldjian</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>laurie@reharris.com</UserPrincipalName>
+        <ObjectId>1a346a2f-49b5-4702-9c4c-a79ef262c41d</ObjectId>
+        <DisplayName>Laurie Riegle</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>liz@reharris.com</UserPrincipalName>
+        <ObjectId>5ac27ab0-dccd-4851-8532-2af3e101cd9b</ObjectId>
+        <DisplayName>Liz Becerril</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>maryellen@reharris.com</UserPrincipalName>
+        <ObjectId>48fd0bb6-b749-48fc-ad3d-8c8db774e567</ObjectId>
+        <DisplayName>Maryellen Musgrave</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>matt@reharris.com</UserPrincipalName>
+        <ObjectId>7dc9e5a7-1a45-457e-85af-20e556b9588d</ObjectId>
+        <DisplayName>Matt Charity</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>misaacs@reharris.com</UserPrincipalName>
+        <ObjectId>ccf2f686-f49b-459c-9ccf-b48669e33f72</ObjectId>
+        <DisplayName>Michael Isaacs</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>msanchez@reharris.com</UserPrincipalName>
+        <ObjectId>d8f3e073-4ef7-4c36-80fb-f94407bfbd52</ObjectId>
+        <DisplayName>Michelle Sanchez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nathan@reharris.com</UserPrincipalName>
+        <ObjectId>c8ef375c-5a67-4130-bf5d-0d61f1049278</ObjectId>
+        <DisplayName>Nathan Harris</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nfilho_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>e5d75d1f-bf83-4a5f-836e-d59a51dfb806</ObjectId>
+        <DisplayName>nfilho@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nick@reharris.com</UserPrincipalName>
+        <ObjectId>bc8ae46c-8973-409c-a569-4bec614a051e</ObjectId>
+        <DisplayName>Nick Rhoads</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nparsons_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>20659268-3af0-409c-8386-9cbc72940a62</ObjectId>
+        <DisplayName>nparsons@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>payable_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>422ce304-2e59-45c9-8ac4-deedf86a855f</ObjectId>
+        <DisplayName>payable@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pelayo@reharris.com</UserPrincipalName>
+        <ObjectId>762b651e-afa2-4ba4-b732-082c8f4b6a16</ObjectId>
+        <DisplayName>Pelayo Carranza</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rardito@reharris.com</UserPrincipalName>
+        <ObjectId>c9a2bcdc-154d-48f5-a89e-bbfc005628e4</ObjectId>
+        <DisplayName>Robert Ardito</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>REHadmin@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>c749a7a3-0de4-468c-baa3-1970360b4458</ObjectId>
+        <DisplayName>Administrator Administrator</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rlafontantpierre_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>c5a4867a-0e13-43f1-9167-f53537811b84</ObjectId>
+        <DisplayName>rlafontantpierre@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rmessenger_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>1067acc4-e263-4c50-9e14-1f9d475e03d2</ObjectId>
+        <DisplayName>rmessenger@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sarah@reharris.com</UserPrincipalName>
+        <ObjectId>1303972a-155b-46a9-b85e-5776c851c1a9</ObjectId>
+        <DisplayName>Sarah Ogdon</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>scanner@reharris.com</UserPrincipalName>
+        <ObjectId>21472360-e287-4cae-8850-e6838c3f7a5f</ObjectId>
+        <DisplayName>scanner</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sderaddo@reharris.com</UserPrincipalName>
+        <ObjectId>cdcb856e-e613-407d-812b-5544e6789f40</ObjectId>
+        <DisplayName>Stephen Deraddo</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sduran@reharris.com</UserPrincipalName>
+        <ObjectId>07a6dbb2-6212-4ba8-a4fc-8e2b11cf1e25</ObjectId>
+        <DisplayName>Sonia Duran</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>shirley@reharris.com</UserPrincipalName>
+        <ObjectId>dd2d6c33-06e0-434a-bb58-61ee1b253af6</ObjectId>
+        <DisplayName>Shirley Parker</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>silvia@reharris.com</UserPrincipalName>
+        <ObjectId>fbcd9217-862c-496e-8f44-5fdecf6c5e0b</ObjectId>
+        <DisplayName>Silvia Ortiz</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sliberman_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>158722f6-3552-4751-8d35-deae5e99bff4</ObjectId>
+        <DisplayName>sliberman@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>smauga@reharris.com</UserPrincipalName>
+        <ObjectId>ee29d67c-a3fe-44ec-886b-8e353618588c</ObjectId>
+        <DisplayName>Sue Mauga</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>snicastro@reharris.com</UserPrincipalName>
+        <ObjectId>993ca226-787c-43b0-b5e7-1bdd58685714</ObjectId>
+        <DisplayName>Susie Nicastro</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>steve@reharris.com</UserPrincipalName>
+        <ObjectId>7c619680-ec11-4b91-8c5b-7452d9e4c84f</ObjectId>
+        <DisplayName>Steve Harris</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sthompson@reharris.com</UserPrincipalName>
+        <ObjectId>bd8a4241-a84c-4e91-b063-f55cf74b652d</ObjectId>
+        <DisplayName>Sarah Thompson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>swolfe_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>3f54cd39-d8c9-4642-92ff-5288fa23065f</ObjectId>
+        <DisplayName>swolfe@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>taylor@reharris.com</UserPrincipalName>
+        <ObjectId>0a96b33f-0149-4024-a93f-30d2b459b586</ObjectId>
+        <DisplayName>Taylor Smith</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>terry@reharris.com</UserPrincipalName>
+        <ObjectId>41cbc490-e4e0-4987-bd2f-7a375f607baa</ObjectId>
+        <DisplayName>Terry Schoubye</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Tristen@reharris.com</UserPrincipalName>
+        <ObjectId>d0610806-7ff7-441e-98dd-d3424a288f94</ObjectId>
+        <DisplayName>Tristen Ford</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>westaccountspayable_bflcanada.ca#EXT#@REHarris.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>22baa355-908c-4199-907e-975839cf5f39</ObjectId>
+        <DisplayName>westaccountspayable@bflcanada.ca</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>whitney@reharris.com</UserPrincipalName>
+        <ObjectId>410a302f-eb96-4b28-9f10-f9d668df0d74</ObjectId>
+        <DisplayName>Whitney Ball</DisplayName>
+    </User>
+</ForensiTAzureID>
